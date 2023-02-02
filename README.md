@@ -1,2 +1,2 @@
-# Current-projects
+# projects
 Projects in development 
